@@ -1,0 +1,31 @@
+{
+  "maids": {
+    "ML24": {
+      "name": "SUSI NURHIDAYAT",
+      "rating": 4.8,
+      "experience": "5 years",
+      "location": "Cheras",
+      "price": 63,
+      "available": true,
+      "skills": ["Deep Cleaning", "Laundry", "Kitchen"]
+    },
+    "ML29": {
+      "name": "WINA AGUSTINA",
+      "rating": 4.7,
+      "experience": "4 years",
+      "location": "PASIR GUDANG",
+      "price": 58,
+      "available": false,
+      "skills": ["Pet Friendly", "Laundry", "Wash Car"]
+    },
+    "ML34": {
+      "name": "NGATMIRAH BT JAMIN",
+      "rating": 4.9,
+      "experience": "7 years",
+      "location": "NILAI",
+      "price": 73,
+      "available": true,
+      "skills": ["Laundry", "Ironing", "Cooking"]
+    }
+  }
+}
